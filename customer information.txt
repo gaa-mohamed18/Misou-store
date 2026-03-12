@@ -1,0 +1,13 @@
+<h2>Order Information</h2>
+
+<form>
+
+<input type="text" placeholder="Name" required>
+
+<input type="text" placeholder="Surname" required>
+
+<input type="tel" placeholder="Phone Number" required>
+
+<button type="submit">Confirm Order</button>
+
+</form>

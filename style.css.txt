@@ -1,0 +1,32 @@
+body{
+
+font-family: Arial;
+background:#fff7f7;
+text-align:center;
+
+}
+
+header{
+
+background:#ffb6c1;
+padding:20px;
+
+}
+
+.product{
+
+border:1px solid #ddd;
+padding:10px;
+margin:10px;
+display:inline-block;
+
+}
+
+.btn{
+
+background:#ff69b4;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+
+}
